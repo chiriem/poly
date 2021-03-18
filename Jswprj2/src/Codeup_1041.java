@@ -7,6 +7,7 @@ public class Codeup_1041 {
 		
 		char a = sc.next().charAt(0);
 		
+		
 		System.out.println((char) (a+1));
 		
 	}
