@@ -7,7 +7,7 @@ public class Codeup_1043 {
 		
 		int a = sc.nextInt();
 		int b = sc.nextInt();
-		
+	
 		System.out.println(a%b);
 	}
 
