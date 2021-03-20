@@ -9,7 +9,6 @@ public class Codeup_1043 {
 		int b = sc.nextInt();
 		
 		System.out.println(a%b);
-
 	}
 
 }
