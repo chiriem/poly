@@ -15,6 +15,6 @@ public class Codeup_1067 {
 			System.out.println("even");
 		else
 			System.out.println("odd");
-		
+		 
 	}
 }
