@@ -24,8 +24,8 @@ public class programmers_n {
 		String c = Long.toString(a);
 		int surija = c.length();
 		for (int i = 0; i < surija; i++) {
-			System.out.print(b[i]);
-		}
+			System.out.print(b[i]); 
+		} 
 	}
 
 }
