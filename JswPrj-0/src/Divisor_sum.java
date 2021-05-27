@@ -19,9 +19,8 @@ public class Divisor_sum {
       Scanner sc = new Scanner(System.in);
       
       int a = sc.nextInt();
-      int b = dv.solution(a);
       
-      System.out.println(b);
+      System.out.println(dv.solution(a));
    }
 
 }
