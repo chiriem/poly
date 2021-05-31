@@ -25,7 +25,7 @@ public class secret {
 				if (single[i] + n > 122) {
 					next[i] = (char) (single[i] + n - 26);
 				} else {
-					next[i] = (char) (single[i] + n);
+					next[i] = (char) (single[i] + n); 
 				}
 			}
 		}
