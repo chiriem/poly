@@ -7,7 +7,7 @@ public class three_jin {
       int m = n;
       int count = 1;
       while (m > 2) {
-         m = m/3;
+         m = m/3; 
          count++;
       }
       int [] thr = new int [count];
