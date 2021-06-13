@@ -10,7 +10,7 @@ public class Long_Square {
 		
 		
 		for (int i = 0; i < a.length; i++) {
-			for (int k = 0; k < a[i].length(); k++) {
+			for (int k = 0; k < a[i].length(); k++) { 
 				if (k%2 == 0) {
 					answer = answer + a[i].toUpperCase().charAt(k);
 				} else {
