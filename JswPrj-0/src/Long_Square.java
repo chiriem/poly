@@ -21,7 +21,7 @@ public class Long_Square {
 		}
 		for (int i = 0; i < answer.length() - 1; i++){
             f_answer = f_answer + answer.charAt(i);
-        }
+        } 
 		
 		System.out.println(f_answer);
 		
