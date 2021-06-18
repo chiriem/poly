@@ -16,7 +16,7 @@ public class Codeup_1065 {
 			System.out.println(b);
 		}
 		if (c%2 == 0) {
-			System.out.println(c);
+			System.out.println(c); 
 		}
 	}
 
