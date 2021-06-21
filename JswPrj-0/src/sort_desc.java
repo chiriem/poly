@@ -23,7 +23,7 @@ class sort_desc {
         }
         
         answer = Long.parseLong(tmp);
-        
+         
         return answer;
     }
 }
